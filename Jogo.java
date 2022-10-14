@@ -132,11 +132,11 @@ public class Jogo {
     public void exibeEstado() {
         System.out.println("Estado atual");
 
-        System.out.println(estado[0] + " │ " + estado[1] + " │ " + estado[2]);
-        System.out.println("───────");
-        System.out.println(estado[3] + " │ " + estado[4] + " │ " + estado[5]);
-        System.out.println("───────");
-        System.out.println(estado[6] + " │ " + estado[7] + " │ " + estado[8]);
+        System.out.println(estado[0] + " | " + estado[1] + " | " + estado[2]);
+        System.out.println("----------");
+        System.out.println(estado[3] + " | " + estado[4] + " | " + estado[5]);
+        System.out.println("----------");
+        System.out.println(estado[6] + " | " + estado[7] + " | " + estado[8]);
 
         System.out.println("\n\n");
     }
