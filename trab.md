@@ -1,0 +1,24 @@
+# PRINCIPIOS
+- **proteção protetor da favorabilidade da tutela tuitivo ou corretor de desigualdades**
+  - in dubio pro operario ou in dubio pro misero
+    - exceções
+      - lei contraria ao trabalhador expressamente (proibido contra legem)
+      - materia probatoria
+  - norma mais favorável 
+    - teorias da aplicação
+      - acumulação/atomista
+      - conglobamento
+      - conglobamento mitigado ou por instituto
+    - acordo coletivo sobre convenção coletiva
+      - acordo coletivo: sindicato x empresa(s)
+      - conveção coletiva: sindicato x sindicato 
+    - acordo col e conv sobre lei:
+      - 611-a
+    - empregado hipersuficiente
+      - nivel superios
+      - sal >= 2*maior benef inss
+  - preservação da condição mais benefica ou inalterabilidade contratual lesiva
+- **irredutibilidade salarial**
+  - exceção: 
+    - norma coletiva(act ou cct)
+    - salario condição, adicionais p ex
