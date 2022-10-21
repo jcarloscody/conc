@@ -139,3 +139,79 @@ do destinatário comprovar o não recebimento neste prazo
     -  revelia
     -   confissão quanto a matéria de fato
   - O beneficiário da justiça gratuita é isento de honorários advocatícios (ADI 5766), honorários periciais (ADI 5766), despesas internas, depósito recursal (art. 899, §10º), custas processuais (art. 790-A, CLT), intérprete (art. 819, §2º, CLT).
+  -  Cumpre destacar que a revelia não gera a confissão quanto à matéria de fato, se as
+alegações de fato formuladas pelo reclamante estiverem em contradição com prova constante dos autos (art. 844, § 4º, IV, CLT). 
+  - A consequência, quando os dois não comparecem na audiência é o arquivamento do processo, extinção do processo sem resolução do mérito
+
+<br/>
+<br/>
+<br/>
+
+# DISTRIBUIÇÃO CUSTAS EMOLUMENTOS
+- > DISTRIBUIÇÃO
+- Ajuizada a reclamação trabalhista, ela é distribuída para uma das varas do trabalho
+- os distribuidores são designados pelo Presidente do TRT,
+dentre os funcionários da Vara do Trabalho ou dos TRTs existentes naquela localidade. Eles
+ficam subordinados ao Presidente do TRT
+- > CUSTAS
+- Fase de Execução
+  - cabe agravo de peticao
+- Fase de Conhecimento
+  - 2% do valor da cond/acord oou causa
+    - acordo: compartilhado salvo acordado de forma contraria
+- O máximo de custar a recolher é de 4x o teto dos benefícios do INSS. 
+- Quando: as custas são recolhidas pela parte vencida. Se não recorrer, as custas
+são recolhidas após o trânsito em julgado. Se recorrer, são recolhidas no prazo
+do recurso
+  - OJ 140, SDI1, TST. Se o recolhimento foi insuficiente, haverá intimação para complementar em 5 dias, conforme o princípio da primazia da decisão de mérito. Dias, no processo do
+trabalho, são em dias úteis. 
+- O empregador doméstico paga metade do depósito recursal, mas não é
+isento de custas. Não existe metade de custas, ou é tudo ou é nada. 
+- O beneficiário da
+justiça gratuita vai pagar os honorários especiais quando não comparecer em audiência e
+não puder justificar em 15 dias
+- Isentos:
+  - Justiça Gratuita
+  - União, estados, DF, municípios e respectivas autarquias e fundações públicas
+  - MPT
+  - massa falida
+- > EMOLUMENTOS
+  - São as despesas pagas quando se formula alguns pedidos
+    - fotocopia autenticacao ...
+
+
+# PARTES E PROCURADORES - JUS POSTULANDI, REPRESENTAÇÃO E SUBSTITUIÇÃO PROCESSUAL, CAPACIDADE POSTULATÓRIA NO PROCESSO DO TRABALHO E ASSISTÊNCIA
+- > Jus Postulandi e Capacidade Postulatória
+  - o jus postulandi, aplica-se no âmbito das Varas do Trabalho e dos Tribunais Regionais do Trabalho, e não se aplica quando se tratar de recurso
+para o TST, ação rescisória, mandado de segurança, e ação cautelar (do CPC de 73)
+  -  registro em ata de audiência, a requerimento verbal do advogado interessado, com anuência da parte representada
+     -  r terá poderes para o foro em geral.
+  -  juntar a procuração ao processo
+  -  Irregularidade de representação: procuração + erro
+Irregularidade de representação. Instância originária. Prazo de 5 (cinco) dias para que seja
+sanado o vício. Descumprida a determinação: extinguirá o processo, reclamante, ou considerará revel o reclamado.
+Irregularidade de representação. Fase recursal. Prazo de 5 (cinco) dias, sanado o vício.
+Descumprida a determinação: não conhecerá do recurso, recorrente; desentranhamento
+das contrarrazões, recorrido. 
+- I – A União, Estados, Municípios e Distrito Federal, suas autarquias e fundações públicas,
+quando representadas em juízo, ativa e passivamente, por seus procuradores, estão dispensadas da juntada de instrumento de mandato e de comprovação do ato de nomeação.
+  - II – Para os efeitos do item anterior, é essencial que o signatário ao menos declare-se
+exercente do cargo de procurador, não bastando a indicação do número de inscrição na
+Ordem dos Advogados do Brasil.
+- A juntada de nova procuração aos autos, sem ressalva de poderes conferidos ao
+antigo patrono, implica revogação tácita do mandato anterior
+- I – Válido é o instrumento de mandato com prazo determinado que contém cláusula
+estabelecendo a prevalência dos poderes para atuar até o final da demanda
+- I – Se há previsão, no instrumento de mandato, de prazo para sua juntada, o mandato só tem validade se anexado ao processo o respectivo instrumento no aludido prazo
+- São válidos os atos praticados pelo substabelecido, ainda que não haja, no mandato, poderes expressos para substabelecer
+- Havendo pedido expresso de que as intimações e publicações sejam realizadas
+exclusivamente em nome de determinado advogado, a comunicação em nome de outro
+profissional constituído nos autos é nula, salvo se constatada a inexistência de prejuízo
+
+- > Representação Processual: quando alguém atua em nome de outrem.
+  - < 18: representantes legais, proc da just Trab, sindicato, MP estadual ou curador nomeado pelo juiz
+  -  Representação stricto sensu: incapazes
+  -  Assistência: para relativamente incapazes
+-  > Substituição Processual: ocorre quando alguém, autorizado por lei, postula em nome próprio direito alheio
+   -  CPC: Art. 18
+   -  Ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões individuais ou administrativas
