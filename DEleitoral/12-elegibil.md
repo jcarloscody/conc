@@ -1,0 +1,14 @@
+Condições ELEGIBILIDADE
+- Nacionalidade Brasileira
+  - naturalizado e portugueses: todos exceto
+    - presidente e vice da rep
+- Pleno Gozo dos direitos políticos
+- Alistamento Eleitoral
+- Domicilio Eleitoral
+  - é o lugar de moradia, e se tiver mais de 1 será qq delas.
+  - Circunscrição:
+    - país: pres
+    - uf/df: dep/sen/gov
+    - mun: pref/ver
+  - Dom Eleit Não se confunde com Dom Civ
+  - Jurisprudencia: onde o cara tem vinculos sociais patrimoniais familiares politicos. o domic ele
