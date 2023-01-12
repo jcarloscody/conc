@@ -38,6 +38,16 @@ O Excel permite que uma pasta de trabalho possa ser salva em muitos formatos. Al
   - A função PROCV permite localizar dados em linhas de uma tabela ou de um intervalo, como normalmente se faz em um banco de dados básico.
   - É possível executar uma busca VERTICAL (Daí o nome PROCV) baseando-se em um determinado valor, e receber como resposta outros dados da linha correspondente, onde foi encontrado o valor procurado.
 - A função “DIAS”, no Microsoft Excel 2010, retorna o número de dias entre duas datas com base em um ano de 360 dias (doze meses de 30 dias).
+- Formatação condicional:
+  - Realce das células
+  - Regras de primeiros/últimos
+  - Barras de dados
+  - Escalas de cor
+  - Conjuntos de ícones
+- Para contar o número de caracteres no Excel é necessário usar a fórmula =NÚM.CARACT.(célula)
+- Um gráfico de pizza ou de rosca, no Microsoft Excel, permite mostrar proporções de um todo.
+- No Excel 2010, a função HOJE retorna a data de hoje formatada como uma data. 
+-  função “=CONTAR.VAZIO” calcula o número de células na planilha que estão vazias
 - recurso de concatenação
    - =CONCATENAR
    - operador de cálculo de E comercial (&) 

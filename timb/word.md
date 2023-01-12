@@ -1,0 +1,11 @@
+18.2- Word da versão 2003 até a mais atual. 
+-  Na Guia Layout, do Microsoft Word, o usuário pode configurar a página de modo a dividir o texto em duas colunas, mudar a orientação da página (para paisagem ou retrato), redimensionar as margens e inserir quebras de páginas
+-  Utilizar a marca d'água é uma forma de inserir uma imagem ou um texto ao fundo de uma página, utilizando um pouco de transparência para não atrapalhar a visualização do conteúdo que será inserido por cima
+-  A barra de ferramentas do MS Office Word está localizada na **margem superior** da tela e mostra informações sobre o documento, tais como o número da página, total de páginas e de palavras no texto, além da página atual. Através da barra de ferramentas do MS Word, **não é possível** editar as configurações do sistema, como a resolução do monitor do computador pessoal.
+-   A função "Diminuir Recuo", no Microsoft Word, move o parágrafo para mais perto da margem. 
+-   No Microsoft Word, é possível organizar os elementos de uma tabela em ordem alfabética.
+-   No Microsoft Windows, a Área de Trabalho (também chamada de desktop) é a principal área exibida na tela quando o usuário liga o computador e faz logon no Windows. É o lugar que exibe tudo o que é aberto (programas, pastas, arquivos) e que também organiza as atividades.
+-   A mala direta permite a criação de um lote de documentos personalizados para cada destinatário. Por exemplo, uma carta modelo pode ser personalizada para tratar cada destinatário pelo nome. Uma fonte de dados, como uma lista, uma planilha ou um banco de dados, está associada ao documento. Os espaços reservados, chamados de campos de mesclagem, informam ao Word onde o documento deve incluir informações da fonte de dados.
+-   No Excel 2010, a função NÃO inverte FALSO para VERDADEIRO, ou VERDADEIRO para FALSO
+-   A FUNÇÃO QUE RETORNA O NÚMEROS DE CARACTERES DE UMA CÉLULA É A FUNÇÃO =NÚM.CARACT(CÉLULA)
+-   
