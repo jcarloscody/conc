@@ -1,0 +1,69 @@
+25- Sistema operacional Windows da versão XP até a mais atual. 
+- No Excel 2019, a função FIMMÊS retorna o número de série do último dia do mês antes ou depois de um número especificado de meses.
+- No Windows 10, o usuário pode pressionar Alt + Enter, no teclado, para exibir as propriedades do item selecionado.
+- O usuário do Windows 10 que deseja recolher a pasta selecionada pode utilizar o atalho NumLock + subtração (-).
+- O usuário do Windows 10 que deseja abrir a caixa de diálogo “Propriedades” do item selecionado pode utilizar o atalho Alt + Enter.
+- No Excel 2019, as funções PROCURAR e PROCURARB localizam uma cadeia de texto em uma segunda cadeia de texto. Ou seja, elas retornam o número da posição inicial da primeira cadeia de texto do primeiro caractere da segunda cadeia de texto.
+- A função DATA.VALOR, no Excel 2019, converte uma data na forma de texto em um número de série.
+- Menu iniciar- windows ou ctrl+ Esc
+-  INSERT:  alterna entre dois modos de entrada do texto : inserir e substituir o texto. (o atalho a que o enunciado se refere é ALT + F4: "encerrar a tarefa atual.")
+-  • NEGRITO no Word: CTRL + N
+-  I. No Windows 10, o usuário pode pressionar F6, no teclado, para percorrer elementos da tela de uma janela ou da área de trabalho.
+- II. No Word 2019, o usuário pode pressionar Ctrl + Shift com uma tecla de direção, no teclado, para selecionar um bloco de texto.
+- III. No Windows 10, o usuário pode pressionar Ctrl + A, no teclado, para selecionar todos os itens em um documento ou em uma janela.
+-  A função CORRESP, no Excel 2019, pode ser usada para pesquisar um item em um intervalo de células e, em seguida, retornar a posição relativa desse item no intervalo. Por exemplo, se o intervalo a1:a3 contiver os valores 5, 7 e 38, nessa ordem, então a fórmula =CORRESP(7,a1:a3,0) retornará o número 2, pois 7 é o segundo item do intervalo.
+-  No Windows 10, o usuário pode pressionar Ctrl + seta para a esquerda, no teclado, para mover o cursor para o início da palavra anterior. 
+-  No Windows 10, o usuário pode pressionar Ctrl + C, no teclado, para copiar o item selecionado.
+-   O usuário do Windows 10 que deseja exibir todas as subpastas da pasta selecionada, no Explorador de Arquivos, pode utilizar o atalho Ctrl + Shift + E
+-   o Windows 10, o usuário pode pressionar F3, no teclado, para procurar um arquivo ou uma pasta no Explorador de Arquivos.
+-   No Windows 10, o usuário pode pressionar F4, no teclado, para exibir a lista da barra de endereços no Explorador de Arquivos. 
+-   II. No Windows 10, o usuário pode pressionar Alt + barra de espaço, no teclado, para abrir o menu de atalho da janela ativa.
+-  A função CORRESP, no Excel 2019, pode ser usada para pesquisar um item em um intervalo de células e, em seguida, retornar a posição relativa desse item no intervalo. Por exemplo, se o intervalo a1:a3 contiver os valores 5, 7 e 38, nessa ordem, então a fórmula =CORRESP(7,a1:a3,0) retornará o número 2, pois 7 é o segundo item do intervalo.
+-  No Windows 10, o usuário pode pressionar seta para a esquerda, no teclado, para abrir o próximo menu à esquerda ou fechar um submenu.(CORRETO)
+-  ALT + seta esquerda (ou backspace)->visualizar pasta anterior
+-  ALT + seta direita -> visualizar próxima pasta
+-  O usuário do Windows 10 que deseja exibir todas as subpastas da pasta selecionada pode utilizar o atalho NumLock + asterisco (*). 
+-  No Excel 2019, a função DATAM retorna o número de série da data, que é o número indicado de meses antes ou depois da data inicial.
+-  minimizar / maximizar
+   -  Tecla Windows + Seta para baixo Minimizar
+   -  tecla Windows + Seta para cima Maximizar
+-  Use ESCOLHER para selecionar um valor entre 254 valores que se baseie no número de índice. Por exemplo, se do valor1 até o valor7 forem os números da semana, ESCOLHER retorna um dos dias quando um número entre 1 e 7 for usado como núm_índice.
+-  No Windows 10, o usuário pode pressionar F4, no teclado, para exibir a lista da barra de endereços no Explorador de Arquivos.
+-  No Windows 10, o usuário pode pressionar Alt + barra de espaço, no teclado, para abrir o menu de atalho da janela ativa.
+-  No Excel 2019, a função DATADIF calcula o número de dias, meses ou anos entre duas datas. Esta função é útil em fórmulas onde o usuário precisa calcular uma idade. 
+-   No Excel 2019, a função PROC pode ser usada quando for necessário analisar uma única linha ou coluna e localizar um valor na mesma posição em uma segunda linha ou coluna.
+-   Ctrl + F Selecione a caixa de pesquisa.
+-   No Windows 10, o usuário pode pressionar tecla do logotipo do Windows + L, no teclado, para bloquear seu computador.
+-   O atalho correto para renomear um arquivo é a tecla F2. A tecla F3, ao ser pressionada no ambiente do Explorador de Arquivos, colocará o cursor na barra de pesquisa (busca).
+-   O atalho correto para abrir uma nova janela no Explorador de Arquivos é o Ctrl + N. O atalho Ctrl + X é equivalente à função "recortar".
+-   No Windows 10, o usuário pode pressionar tecla do logotipo do Windows + L, no teclado, para bloquear seu computador. - Correto
+-   No Excel 2019, a função SE pode ser usada para retornar um valor se uma condição for verdadeira e outro valor se for falsa.
+-   A função DATA, no Excel 2019, pode ser usada para retornar o número de série sequencial que representa uma data particular. Esta função é mais útil em situações em que o ano, o mês e o dia são fornecidos por fórmulas ou referências de célula.
+-   No Windows 10, o usuário pode pressionar Ctrl + Alt + Tab, no teclado, para usar as teclas de direção para alternar entre todos os aplicativos abertos.
+-   No Excel 2019, a função NÚMSEMANA converte um número de série em um número que representa onde a semana cai numericamente em um ano.
+-   No Windows 10, o usuário pode pressionar Alt + Esc, no teclado, para percorrer itens na ordem em que foram abertos. 
+-   No Windows 10, o usuário pode pressionar Shift + F10, no teclado, para exibir o menu de atalho do item selecionado.
+-   I. No Windows 10, o usuário pode pressionar F6, no teclado, para percorrer elementos da tela de uma janela ou da área de trabalho. 
+-   II. No Word 2019, o usuário pode pressionar Ctrl + Shift com uma tecla de direção, no teclado, para selecionar um bloco de texto. 
+-   III. No Windows 10, o usuário pode pressionar Ctrl + A, no teclado, para selecionar todos os itens em um documento ou em uma janela.
+-   I. No Excel 2019, a função FIMMÊS retorna o número de série do último dia do mês antes ou depois de um número especificado de meses.
+-    II. No Windows 10, o usuário pode pressionar Alt + Enter, no teclado, para exibir as propriedades do item selecionado. 
+-    III. O usuário do Windows 10 que deseja recolher a pasta selecionada pode utilizar o atalho NumLock + subtração (-).
+-    I. A função DATA.VALOR, no Excel 2019, converte uma data na forma de texto em um número de série. 
+-    II. No Excel 2019, as funções PROCURAR e PROCURARB localizam uma cadeia de texto em uma segunda cadeia de texto. Ou seja, elas retornam o número da posição inicial da primeira cadeia de texto do primeiro caractere da segunda cadeia de texto. 
+-    III. O usuário do Windows 10 que deseja abrir a caixa de diálogo “Propriedades” do item selecionado pode utilizar o atalho Alt + Enter.
+-    No Word 2019, o usuário pode pressionar Ctrl + seta para cima, no teclado, para mover o cursor para o início do parágrafo anterior.
+-    I. O usuário do Windows 10 que deseja exibir o painel de visualização, no Explorador de Arquivos, pode utilizar o atalho Alt + P
+-    II. O usuário do Windows 10 que deseja exibir a próxima pasta, no Explorador de Arquivos, pode utilizar o atalho ALT + seta para a direita.
+-    III. No Word 2019, o usuário pode pressionar Ctrl + seta para baixo, no teclado, para mover o cursor para o início do próximo parágrafo.
+-    No Excel 2019, a função DATAM retorna o número de série da data, que é o número indicado de meses antes ou depois da data inicial.
+-    O usuário do Windows 10 que deseja exibir a pasta, no Explorador de Arquivos, na qual uma subpasta estava, pode utilizar o atalho Alt + seta para cima
+-     no Windows 10, o usuário pode pressionar Ctrl + tecla de direção (para ir até um item) + Barra de espaço, no teclado, para selecionar vários itens separadamente em uma janela ou na área de trabalho.
+-     ). III. O usuário do Windows 10 que deseja exibir a pasta anterior no Explorador de Arquivos pode utilizar o atalho Esc + seta para a esquerda.
+-      I. A função PROCV, no Excel 2019, pode ser usada quando o usuário precisar localizar valores em linhas de uma tabela ou de um intervalo. Por exemplo, quando o usuário procurar pelo sobrenome de uma servidora a partir de seu número de identificação ou encontrar seu telefone pesquisando através de seu sobrenome (como um catálogo de telefone). 
+-      No Excel 2019, a função DATAM retorna o número de série da data, que é o número indicado de meses antes ou depois da data inicial.
+-      
+
+
+
+5- Atalhos no teclado. 

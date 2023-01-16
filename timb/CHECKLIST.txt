@@ -1,8 +1,0 @@
-1-Turno
-0000|
-2-Perguntas
-00001|1|1|1|2|Bem vindo ao checklist de teste!|
-00002|2|1|2|2|Essa é a primeira pergunta?|
-00003|2|1|2|2|Essa é a primeira pergunta?|
-3-Flags
-1|2|1|
