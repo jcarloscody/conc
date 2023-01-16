@@ -17,7 +17,7 @@
 22- Programas de aplicações práticas. 
 23- Saúde e segurança no ambiente de trabalho. 
 
-24- Segurança na internet. 
+
 26- Teclado numérico. 
 15- Hardware, redes de computadores e software. 
 11- Correio eletrônico (email). 
