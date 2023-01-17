@@ -4,9 +4,7 @@
 16- Lei nº 12.527, de 18 de novembro de 2011 (lei de acesso à informação).
 12- Decreto Nº 1.171, de 22 de junho de 1994 (Código de Ética). 
 
-4- Acentuação e pontuação. 
-19- Morfologia e sintaxe da Língua Portuguesa. 
-9- Construção de palavras, frases e orações. 
+
 
 
 6- Atendimento ao público. 
