@@ -16,8 +16,6 @@
 23- Saúde e segurança no ambiente de trabalho. 
 
 
-26- Teclado numérico. 
-15- Hardware, redes de computadores e software. 
-11- Correio eletrônico (email). 
-7- Computador e teclado. 
+
+
 10- Cópia de documentos. 

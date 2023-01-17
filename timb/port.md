@@ -3,7 +3,19 @@ https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=1
 4- Acentuação e pontuação. 
 19- Morfologia e sintaxe da Língua Portuguesa. 
 9- Construção de palavras, frases e orações. 
-
+- Os advérbios de intensidade incluem palavras como: muito, bastante, imenso, demais, pouco, tão, mais, menos, quanto, quase, tanto, tudo, nada e todo.
+- "O tempo verbal indica quando ocorre a ação em relação ao enunciado, podendo ser essencialmente passado/pretérito (antes do enunciado), presente (junto com o enunciado) e futuro (após o enunciado)."
+- Do ponto de vista morfológico, o verbo marca voz (ativa, passiva e reflexiva), tempo (pretérito, presente ou futuro), pessoa (1ª, 2ª ou 3ª), número (singular ou plural) e modo (indicativo, subjuntivo ou imperativo).
+- Os verbos permitem indicar uma ação, um estado ou mesmo um fenômeno da natureza. Na língua portuguesa, os verbos formam uma classe rica em possibilidades flexionais, pois as oposições entre tempos e modos referem-se a muitos tempos verbais.
+- São exemplos de advérbios de modo os seguintes vocábulos: bem, pior, depressa, devagar, cuidadosamente, mal, assim, melhor, calmamente e tristemente.
+- No processo de composição por justaposição, a união dos termos ocorre de modo que os radicais não sofrem qualquer alteração em sua estrutura. Um exemplo é o termo “surdomudo”.
+- Os substantivos sobrecomuns - são substantivos que possuem uma única forma para o masculino e para o feminino. Até o artigo que acompanha estes substantivos é comum aos dois gêneros.
+- EPICENOS Referem-se a animais que só têm um gênero para designar tanto o masculino quanto o feminino. A águia, A cobra, O gavião. A variação de gênero se dá com acréscimo de “macho/fêmea”: a cobra macho, o gavião fêmea...
+- SOBRECOMUNS Referem-se a pessoas de ambos os sexos. A criança, O cônjuge, O carrasco, A pessoa, O monstro, O algoz, A vítima.
+- COMUNS DE DOIS GÊNEROS Apresentam uma forma única para masculino e feminino e a distinção é feita pelo “artigo” (ou O chefe, A chefe, O cliente, A cliente, O suicida, A suicida.
+- Quanto à função sintática, o substantivo exerce por excelência a função de sujeito (ou seu núcleo) da oração e, no domínio da constituição do predicado, as funções de objeto direto, complemento relativo, objeto indireto, predicativo, adjunto adnominal e adjunto adverbial.
+- 
+- II. No processos de composição por aglutinação, a união dos termos ocorre de modo que pelo menos um dos radicais sofre alteração em sua estrutura. Um exemplo é o termo “planalto” (plano alto).
 - Na derivação parassintética ocorre a inclusão de um prefixo e de um sufixo à palavra primitiva, de forma simultânea, como se pode observar, por exemplo, nas palavras: entardecer, emagrecer e engaiolar.
 - I. A ação do verbo, na voz passiva, é sofrida pelo sujeito, como se pode observar na frase: “Ícaro foi penteado por sua mãe”.
 - II. Na voz ativa, o sujeito pratica a ação do verbo, como se pode observar na frase: “Bia penteou Maria”.
