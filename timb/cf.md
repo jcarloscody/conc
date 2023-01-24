@@ -1,0 +1,83 @@
+8- Constituição da República Federativa do Brasil de 1988 (artigos 1 ao 16). 
+- De acordo com o artigo 3º da Constituição Federal de 1988, erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais constituem objetivos fundamentais da República Federativa do Brasil.
+- De acordo com o artigo 5º da Constituição Federal de 1988, é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.
+- a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição
+- a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento
+- O artigo 5º da Constituição Federal de 1988 determina ser inviolável o sigilo da correspondência, das comunicações telegráficas, de dados e das comunicações telefônicas de qualquer cidadão brasileiro, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.
+- No Brasil, a criação de associações e, na forma da lei, a de cooperativas, independe de autorização, sendo vedada a interferência estatal em seu funcionamento, conforme dispõe a Constituição Federal de 1988.
+> fundamentos
+- I - a soberania;
+- II - a cidadania;
+- III - a dignidade da pessoa humana;
+- IV - os valores sociais do trabalho e da livre iniciativa; 
+- V - o pluralismo político.
+> objetivos fundamentais
+- construir uma sociedade livre, justa e solidária;
+- garantir o desenvolvimento nacional;
+- erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+- promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+> relações internacionais pelos seguintes princípios
+- I - independência nacional;
+- II - prevalência dos direitos humanos;
+- III - autodeterminação dos povos;
+- IV - não-intervenção;
+- V - igualdade entre os Estados;
+- VI - defesa da paz;
+- VII - solução pacífica dos conflitos;
+- VIII - repúdio ao terrorismo e ao racismo;
+- IX - cooperação entre os povos para o progresso da humanidade;
+- X - concessão de asilo político.
+> DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+-  livre a manifestação do pensamento, sendo vedado o anonimato;
+-  é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;
+-  é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;
+-  ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;
+-  a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
+-  é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;  
+-  é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer
+-  é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;
+-  a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
+-  as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+-  as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
+-  no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+-  a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;
+-  aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+-  a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
+-   todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
+-   a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
+-   a prática do racismo constitui **crime inafiançável e imprescritível**, sujeito à pena de reclusão, nos termos da lei;
+-   a lei considerará c**rimes inafiançáveis e insuscetíveis de graça ou anistia** a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem; 
+-   constitui **crime inafiançável e imprescritível** a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático;
+-   às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
+-   nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;
+> DOS DIREITOS SOCIAIS
+- a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados
+- seguro-desemprego, em caso de desemprego involuntário;
+- fgts
+-  salário mínimo
+-  irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;
+-  remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal
+-  gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;
+-  ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; 
+-  a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical;
+-  é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei.
+> NATURALIZAÇÃO
+- natos
+  - os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;
+  - os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;
+  - os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira;
+- naturalizados
+  - os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;
+  - os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.   
+  -  Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição.
+-   São privativos de brasileiro nato os cargos:
+    -   I - de Presidente e Vice-Presidente da República;
+    -   II - de Presidente da Câmara dos Deputados;
+    -   III - de Presidente do Senado Federal;
+    -   IV - de Ministro do Supremo Tribunal Federal;
+    -   V - da carreira diplomática;
+    -   VI - de oficial das Forças Armadas.
+    -   VII - de Ministro de Estado da Defesa. 
+-  perda da nacionalidade do brasileiro
+   -  tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional;
+   -   adquirir outra nacionalidade
