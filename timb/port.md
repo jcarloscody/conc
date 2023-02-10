@@ -28,3 +28,8 @@ https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=1
 - II. Denominam-se substantivos compostos aqueles que possuem mais de uma palavra ou a junção de dois radicais como, por exemplo, as palavras “peixe-espada”, “aguardente” e “couve-flor”.
 - Os verbos irregulares tendem a seguir o modelo padrão, mas com algumas conjugações que se afastam desse modelo.
 - São exemplos de advérbio de tempo as seguintes palavras: hoje, agora, amanhã, ontem, tarde, breve, cedo, jamais e nunca.
+- Verbos impessoais são os verbos que não têm sujeito. Normalmente, são usados na terceira pessoa do singular. Haver, quando sinônimo de existir, acontecer, realizar-se ou fazer (em orações temporais) são verbos impessoais.
+- Conjunções coordenativas adversativas: mas, porém, contudo, no entanto, entretanto, todavia, não obstante(antes de verbo no indicativo), só que, senão(=mas sim) antes, agora, ainda assim.
+- Verbo Haver com sentido de existência, tempo decorrido e ocorrência é impessoal.
+- Verbos defectivos são aqueles que possuem conjugação incompleta, ou seja, não se conjugam em todos os modos, tempos e pessoas.
+- Os verbos impessoais são aqueles que não possuem sujeito. Os verbos impessoais sempre ficam na terceira pessoa.
